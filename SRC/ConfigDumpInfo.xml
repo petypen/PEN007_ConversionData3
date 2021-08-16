@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.ПравилаКонвертацииОбъектов" id="4a226363-5d74-48c3-92d6-ca7aeaea00ff" configVersion="ca739786e30e25a8a28ff672742effee328860f8"/>
+		<Metadata name="Catalog.ПравилаКонвертацииОбъектов.Form.ФормаЭлемента" id="cc0dda77-defa-47c1-9b75-f2750de3b488" configVersion="4037a38f1d2181e5ddf8cb70bff56946b711a37b"/>
+		<Metadata name="Catalog.ПравилаКонвертацииОбъектов.Form.ФормаЭлемента.Form" id="cc0dda77-defa-47c1-9b75-f2750de3b488.0" configVersion="933cb66aa75e834114073a2f276c6e1b4e15e1d3"/>
+		<Metadata name="CommonModule.КонвертацияДанныхXDTOВызовСервера" id="cfeaed5c-15f9-4da2-8b96-36da3355be8a" configVersion="bba6d23de043704a245bc1b35e45152126c77c15"/>
+		<Metadata name="CommonModule.КонвертацияДанныхXDTOВызовСервера.Module" id="cfeaed5c-15f9-4da2-8b96-36da3355be8a.0" configVersion="ac315cfe111fd349614a9200389283d2d06656f3"/>
+		<Metadata name="Configuration.PEN007_КД3" id="049672c8-09d4-4efe-a123-50da44797060" configVersion="03d9c1d0fedf861b9e657d04ec2380e994a26f40"/>
+		<Metadata name="Enum.ВариантыИдентификацииОбъектов" id="0996a318-c42c-4b78-9441-7d5cde927517" configVersion="72603111fda915e97322662a60907e8c2c491c3f">
+			<Metadata name="Enum.ВариантыИдентификацииОбъектов.EnumValue.СначалаПоУникальномуИдентификаторуПотомПоПолямПоиска" id="19733b3d-f6b7-4f0f-a6f1-b44166750f9b"/>
+			<Metadata name="Enum.ВариантыИдентификацииОбъектов.EnumValue.ПоУникальномуИдентификатору" id="48412203-90bd-4a9b-a508-adf70c0b50e1"/>
+			<Metadata name="Enum.ВариантыИдентификацииОбъектов.EnumValue.ПоПолямПоиска" id="875c0050-92e1-42b2-9f8a-e5843dc54e5a"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="90093b5c-c847-4fe5-b2d6-e78145b73dff" configVersion="7d03f4a4cce469878852b9f09efc65287f310a23"/>
+		<Metadata name="Role.PEN007_ОсновнаяРоль" id="8196a34e-774a-4269-8a55-e2eb3218bf7a" configVersion="6d7a475042e54454d494c90463d8674c2305b9fb"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

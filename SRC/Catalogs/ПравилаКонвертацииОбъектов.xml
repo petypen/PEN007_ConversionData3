@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
+	<Catalog uuid="4a226363-5d74-48c3-92d6-ca7aeaea00ff">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПравилаКонвертацииОбъектов" category="Object">
+				<xr:TypeId>a926c0ac-f9e6-44bc-a936-5a01f2e1a178</xr:TypeId>
+				<xr:ValueId>b4dba8d0-98bc-4aca-8fdb-4b6824745cb7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПравилаКонвертацииОбъектов" category="Ref">
+				<xr:TypeId>6874a19d-d5b6-4f5c-85e4-acc303420902</xr:TypeId>
+				<xr:ValueId>778c91db-f394-415c-af41-51fa29d94388</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПравилаКонвертацииОбъектов" category="Selection">
+				<xr:TypeId>e78fa704-2451-4c30-9124-4b7664d22879</xr:TypeId>
+				<xr:ValueId>40309b6e-bbd0-4f07-87db-901e91a9f486</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПравилаКонвертацииОбъектов" category="List">
+				<xr:TypeId>27dba73a-2022-4086-b2a2-37036381d013</xr:TypeId>
+				<xr:ValueId>dbcfe237-fdb3-4455-a6f6-fa6876bc1e12</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПравилаКонвертацииОбъектов" category="Manager">
+				<xr:TypeId>d42d835d-28b0-4e69-b8d9-649c13467a7d</xr:TypeId>
+				<xr:ValueId>add4c1b0-e27a-42e2-8455-e17c2f827045</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПравилаКонвертацииОбъектов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>ccc4d401-cf65-42ba-a49b-6d263a9418f3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаЭлемента</Form>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

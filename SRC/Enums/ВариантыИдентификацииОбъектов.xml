@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
+	<Enum uuid="0996a318-c42c-4b78-9441-7d5cde927517">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВариантыИдентификацииОбъектов" category="Ref">
+				<xr:TypeId>9304640d-cc93-4b9e-966d-036e30476d6d</xr:TypeId>
+				<xr:ValueId>f54a0692-70e0-4105-872d-c50b92008c6d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВариантыИдентификацииОбъектов" category="Manager">
+				<xr:TypeId>137b5efe-d669-4b54-a0ed-021c8115a772</xr:TypeId>
+				<xr:ValueId>023634dd-0d99-4cf6-b92a-156455ef66df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВариантыИдентификацииОбъектов" category="List">
+				<xr:TypeId>292d897e-7724-463e-bde9-91392e9e2b1c</xr:TypeId>
+				<xr:ValueId>8f106992-f37f-4ef7-88a9-33dfc75c4109</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВариантыИдентификацииОбъектов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>693f9175-a81a-4162-adef-f6ca9d53b9ce</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="48412203-90bd-4a9b-a508-adf70c0b50e1">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПоУникальномуИдентификатору</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>24e46fdc-3927-4fae-abd4-3fafecd545c1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="875c0050-92e1-42b2-9f8a-e5843dc54e5a">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПоПолямПоиска</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>423a69bd-30cf-42dc-bf89-e4efae0484cf</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="19733b3d-f6b7-4f0f-a6f1-b44166750f9b">
+				<InternalInfo/>
+				<Properties>
+					<Name>СначалаПоУникальномуИдентификаторуПотомПоПолямПоиска</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>f9c7c379-959d-4cbb-afa5-f9ec223137d6</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
